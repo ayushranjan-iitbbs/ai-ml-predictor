@@ -18,28 +18,7 @@ Welcome to the **AI Predictor Web App** — an intuitive, modern frontend interf
 
 ## 📁 Project Structure
 
-ai-ml-app/
-│
-├── public/                   # Public assets
-│
-├── src/
-│   ├── components/           # Reusable UI components (Navbar, Footer)
-│   ├── pages/                # All main routes/pages
-│   │   ├── Home.jsx
-│   │   ├── Predict.jsx
-│   │   ├── Dashboard.jsx
-│   │   ├── About.jsx
-│   │   └── LoginSignup.jsx
-│   ├── App.jsx               # Main app wrapper with routes
-│   └── main.jsx              # Entry point
-│
-├── index.css                 # Tailwind CSS styles
-├── vite.config.js            # Vite configuration
-├── vercel.json               # SPA route handling for Vercel
-└── README.md                 # Project documentation
-
-
----
+<pre> ai-ml-app/ │ ├── public/ # Public assets │ ├── src/ │ ├── components/ # Reusable UI components (Navbar, Footer) │ ├── pages/ # All main routes/pages │ │ ├── Home.jsx │ │ ├── Predict.jsx │ │ ├── Dashboard.jsx │ │ ├── About.jsx │ │ └── LoginSignup.jsx │ ├── App.jsx # Main app wrapper with routes │ └── main.jsx # Entry point │ ├── index.css # Tailwind CSS styles ├── vite.config.js # Vite configuration ├── vercel.json # SPA route handling for Vercel └── README.md # Project documentation </pre>
 
 ## 🌐 Routes & Pages
 

@@ -2,7 +2,7 @@
 
 Welcome to the **AI Predictor Web App** — an intuitive, modern frontend interface for simulating AI/ML-based predictions. This is **Task 1** for the **Inter IIT Tech Meet**, built by **Ayush Ranjan**, an upcoming 2nd-year B.Tech student at **IIT Bhubaneswar**.
 
-> Built with 💙 React, Tailwind CSS, and Recharts
+> Built with React, Tailwind CSS, and Recharts
 
 ## 🚀 Features
 
